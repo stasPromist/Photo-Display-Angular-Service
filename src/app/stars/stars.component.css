@@ -1,0 +1,19 @@
+.checked {
+    color: orange;
+  }
+
+
+
+  .like-button {
+    font-size: 1rem;
+    padding: 1px 1px;
+    color: #e93030;
+    margin-left: 5px;
+    border-radius: 5px;
+  }
+  
+  .liked {
+    font-weight: bold;
+    color: #1565c0;
+    
+  }
